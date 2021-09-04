@@ -1,5 +1,5 @@
 # Mini User Admin  
-Een eenvoudig mini-gebruikersbeheer systeem ontwikkeld door PHP. Front framework: Bootstrap. Database: MySQL.   
+Een eenvoudig mini-gebruikersbeheer systeem ontwikkeld door PHP. Front-end framework: Bootstrap. Database: MySQL.   
 
 **Realisatie:**  
 + CRUD  
